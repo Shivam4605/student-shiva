@@ -1,2 +1,3 @@
 # student-shiva
-this is my first Repository
+this is my first Git Repository
+Author - Shivam Mahadev Kolekar
