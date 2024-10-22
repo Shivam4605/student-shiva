@@ -1,4 +1,4 @@
 # student-Demo
-this is my first Git Repository
+This is My First Git Repository
 <br>
 Author - Shivam Mahadev Kolekar
